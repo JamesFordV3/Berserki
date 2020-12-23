@@ -1,0 +1,2 @@
+/**** initialize constants ****/
+TribalWars.constants = {"item_types":{"1":"Funkcja","2":"Do wykorzystania","3":"Przedmiot"},"item_categories":{"4":"Bonus do jednostek","6":"Bonus do rekrutacji","5":"Bonus do wioski","2":"Pakiet surowc\u00f3w","1":"Premium","3":"Przedmiot z eventu"},"item_tags":{"rarity":["Brak","Powszechny","Niecodzienny","Rzadki","Legendarny"],"use_type":["Brak","Do wykorzystania","Mo\u017cna podarowa\u0107"]}};
